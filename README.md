@@ -21,7 +21,7 @@
 - Obstacles and coins often spawn on top of each other
 - If player dies during level up, restart button on game over screen doesn’t work
 - Helicopter force is much slower on build than on local host
-What’s left?
+# What’s left?
 - Implement instruction and menu screen
 - Fix bugs
 - Implement pause menu
