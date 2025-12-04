@@ -1,4 +1,4 @@
-#Hot Pursuit
+# Hot Pursuit
 # The project
 - Hot pursuit is a 2d endless game that somewhat resembles “Jetpack Joyride”. As the player, you are a news helicopter following a police chase while avoiding birds, drones, and power lines. While in pursuit, you have to obtain coins to achieve a higher score. Users advance levels  after they meet certain coin thresholds such as 300, 800, 1500, etc. As you progress levels, obstacles spawn more frequently and move at a faster pace. Ultimately, the goal is to stay alive as long as possible and beat your previous high scores.
 ## How to Play Description: 
