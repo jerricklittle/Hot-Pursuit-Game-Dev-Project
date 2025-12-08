@@ -49,7 +49,8 @@
 - Hot pursuit was created on the base package of Unity 6000.0.56f1
 - No added packages were installed
 ## Bugs
-- Only known bug is obstacles and coins can spawn simultaneously on top of each other possibly causing confusion for the user
+- Obstacles and coins can spawn simultaneously on top of each other possibly causing confusion for the user
+- Main menu buttons break after returning to main menu after pausing or dying
 # Reflection
 ## What went well?
 - I’m very pleased with the reality that I was able to create a full game from scratch. I’m glad that the techniques and practice from class were able to be utilized for my game to the best of my ability. Additionally, I was impressed with my ability to find assets to fully bring my game to life rather than creating all sprites from scratch. Using techniques such as SOLID principles aided in keeping the game organized and easy to modify throughout development. Most importantly I was proud that I learned more about C# and the Unity software throughout the semester to broaden my knowledge and experience!
